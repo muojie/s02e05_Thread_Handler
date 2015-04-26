@@ -21,12 +21,17 @@
 
         <activity android:name=".HandlerActivity8"
             android:label="Handler Activity 8">
+
+        </activity>
+
+        <activity android:name=".HandlerActivity8Sub"
+            android:label="handle 8 sub">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+            </activity>
     </application>
 
 </manifest>
