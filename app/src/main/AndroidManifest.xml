@@ -13,6 +13,12 @@
 
         </activity>
 
+        <activity android:name=".HandlerActivity"
+            android:label="Handler Activity">
+
+
+        </activity>
+
         <activity android:name=".HandlerActivity7"
             android:label="Handler Activity 7">
 
